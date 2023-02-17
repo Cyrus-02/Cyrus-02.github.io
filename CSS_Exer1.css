@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img {
+    width: 295.5px;
+    height: 200px;
+}
+
+@font-face {
+    font-family: customFonts;
+    src: url(Blackpine-4BEVW.ttf);
+}
+.p1 {
+    font-family: customFonts;
+    font-size: 70px;
+    color: aliceblue;
+}
+
+.p2 {
+    font-family: customFonts;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.p3 {
+    font-family: customFonts;
+    font-size: 70px;
+    color: rgb(226, 211, 0);
+}
+
+.p4 {
+    font-family: cursive;
+    color: aliceblue;
+}
+
